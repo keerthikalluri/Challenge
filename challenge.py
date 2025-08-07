@@ -13,3 +13,5 @@ def sort(width, height, length, mass):
         return "SPECIAL"
     else:
         return "STANDARD"
+print(sort(2,3,4,5))
+
